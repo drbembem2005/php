@@ -1,0 +1,4 @@
+/* Custom CSS styles for the clinic system will go here */
+body {
+    padding-top: 56px; /* Adjust body padding to account for fixed navbar height if needed */
+}
